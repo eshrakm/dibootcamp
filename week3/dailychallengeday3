@@ -1,0 +1,5 @@
+const sentence = 'The movie is not that bad, Ilike it';
+const positionNot = sentence.indexOf('not');
+console.log(positionNot); 13
+
+const positionBad = sentence.indexOf('bad');
